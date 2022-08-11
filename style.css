@@ -53,6 +53,7 @@ h1 {
 main {
     display: flex;
     flex-direction: row;
+    padding-left: 16px;
 }
 
 .numbers {
@@ -112,4 +113,7 @@ footer{
 img{
     width: 24px;
     height: 24px;
+}
+@media screen and (min-width: 1440px) {
+
 }
